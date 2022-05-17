@@ -10,5 +10,5 @@ D → Right
 Q → Left
 
 Climbing : 
-Z → Go UP
+Z or SPACE → Go UP
 S → Go Down
