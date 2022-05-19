@@ -1,5 +1,4 @@
-é → Camera In / Camera Out
-MBR → Flash when Camera is Out
+MBR → Camera In / Camera Out + Flash
 SPACE → Jump
 LSHIFT → Sprint
 LCTRL → Crouch (toggle)
