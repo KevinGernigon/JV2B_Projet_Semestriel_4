@@ -1,0 +1,13 @@
+MBR → Camera In / Camera Out + Flash
+SPACE → Jump
+LSHIFT → Sprint
+LCTRL → Crouch (toggle)
+C → Crouch (hold)
+Z → Move Forward 
+S → Move Backward
+D → Right
+Q → Left
+
+Climbing : 
+Z or SPACE → Go UP
+S → Go Down
