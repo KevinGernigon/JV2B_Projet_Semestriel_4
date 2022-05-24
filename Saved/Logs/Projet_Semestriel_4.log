@@ -2123,3 +2123,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.24-12.39.04:349][403]LogSavePackage: Moving '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_finalABDC45AF4534119282109C9F52E90764.tmp' to '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final.umap'
 [2022.05.24-12.39.04:385][403]AssetCheck: New page: Asset Save: Blocking_final
 [2022.05.24-12.39.04:385][403]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
+[2022.05.24-12.41.15:194][294]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Temple_Wall_Corner_1x210)
+[2022.05.24-12.41.16:357][335]LogEditorViewport: Clicking Background
+[2022.05.24-12.41.20:431][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_Corner_1x210)
+[2022.05.24-12.41.21:711][813]Cmd: DELETE
+[2022.05.24-12.41.21:711][813]Cmd: ACTOR DELETE
+[2022.05.24-12.41.21:806][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.24-12.41.21:812][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.24-12.41.21:815][813]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2022.05.24-12.41.33:895][358]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.24-12.41.38:244][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.24-12.41.39:703][559]LogSavePackage: Moving '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_final08E52F2A4A0B5C65A520F1834165ED37.tmp' to '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final.umap'
+[2022.05.24-12.41.39:743][559]AssetCheck: New page: Asset Save: Blocking_final
+[2022.05.24-12.41.39:743][559]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
+[2022.05.24-12.41.46:652][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_Corner_1x209)
+[2022.05.24-12.41.48:381][997]Cmd: EDIT COPY
+[2022.05.24-12.41.48:895][ 23]Cmd: EDIT PASTE
+[2022.05.24-12.41.53:618][247]LogEditorViewport: Clicking Background
+[2022.05.24-12.41.59:903][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.05.24-12.42.01:362][532]LogSavePackage: Moving '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_finalC0826F4648693F21B4414996F23CB302.tmp' to '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final.umap'
+[2022.05.24-12.42.01:424][532]AssetCheck: New page: Asset Save: Blocking_final
+[2022.05.24-12.42.01:424][532]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
+[2022.05.24-12.42.25:028][632]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2022.05.24-12.45.42:971][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.24-12.45.44:462][521]LogSavePackage: Moving '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_final0CF2F4B9445A07DF5583A5AC64B7CA50.tmp' to '../../../../../../Users/t.sachot/Documents/GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final.umap'
+[2022.05.24-12.45.44:497][521]AssetCheck: New page: Asset Save: Blocking_final
+[2022.05.24-12.45.44:497][521]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
