@@ -1340,3 +1340,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.25-16.50.19:018][102]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.25-16.50.19:018][102]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
 [2022.05.25-16.50.19:018][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Blocking_final_BuiltData.Blocking_final_BuiltData
+[2022.05.25-16.51.19:513][883]LogActorFactory: Actor Factory created Temple_Wall_1x3
+[2022.05.25-16.51.21:384][ 79]LogActorFactory: Actor Factory created Temple_Wall_1x3
+[2022.05.25-16.52.09:018][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x27)
+[2022.05.25-16.52.10:355][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.52.11:089][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x27)
+[2022.05.25-16.52.12:238][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.52.15:167][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x27)
+[2022.05.25-16.52.16:205][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x33)
+[2022.05.25-16.52.19:965][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x27)
+[2022.05.25-16.52.26:144][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.52.39:947][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x27)
+[2022.05.25-16.52.41:600][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.52.58:287][975]Cmd: TRANSACTION UNDO
+[2022.05.25-16.52.58:287][975]LogEditorTransaction: Undo Set Location
+[2022.05.25-16.53.03:948][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Ground_3x27)
+[2022.05.25-16.53.05:032][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.53.56:759][327]Cmd: EDIT COPY
+[2022.05.25-16.53.57:084][366]Cmd: EDIT PASTE
+[2022.05.25-16.54.17:812][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.54.18:568][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4337)
+[2022.05.25-16.54.19:218][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4336)
+[2022.05.25-16.54.19:977][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4337)
+[2022.05.25-16.54.21:853][131]Cmd: EDIT COPY
+[2022.05.25-16.54.22:236][177]Cmd: EDIT PASTE
+[2022.05.25-16.54.29:372][988]Cmd: EDIT COPY
+[2022.05.25-16.54.29:815][ 41]Cmd: EDIT PASTE
+[2022.05.25-16.54.47:732][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4337)
+[2022.05.25-16.54.48:337][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4341)
+[2022.05.25-16.54.53:374][556]Cmd: EDIT COPY
+[2022.05.25-16.54.53:701][587]Cmd: EDIT PASTE
+[2022.05.25-16.55.19:985][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple_Wall_1x4340)
+[2022.05.25-16.55.23:589][293]Cmd: EDIT COPY
+[2022.05.25-16.55.23:980][323]Cmd: EDIT PASTE
+[2022.05.25-16.55.54:720][276]Cmd: EDIT COPY
+[2022.05.25-16.55.55:197][333]Cmd: EDIT PASTE
+[2022.05.25-16.56.34:259][581]Cmd: EDIT COPY
+[2022.05.25-16.56.34:635][626]Cmd: EDIT PASTE
+[2022.05.25-16.56.50:725][405]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Temple_Wall_1x4371)
+[2022.05.25-16.56.50:764][406]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Temple_Wall_1x4371)
+[2022.05.25-16.58.25:044][205]Cmd: EDIT COPY
+[2022.05.25-16.58.25:542][249]Cmd: EDIT PASTE
+[2022.05.25-16.59.12:219][168]Cmd: TRANSACTION UNDO
+[2022.05.25-16.59.12:219][168]LogEditorTransaction: Undo Move Actors
+[2022.05.25-16.59.17:568][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.05.25-16.59.19:428][478]LogSavePackage: Moving '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_finalD0968A8E41F953CE52DEFB8B24E52C07.tmp' to '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final.umap'
+[2022.05.25-16.59.21:217][478]LogSavePackage: Moving '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_final_BuiltDataB291F1AA46A6CB26D443AAA40C9CAA4A.tmp' to '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final_BuiltData.uasset'
+[2022.05.25-16.59.21:245][478]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-16.59.21:245][478]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
+[2022.05.25-16.59.21:245][478]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Blocking_final_BuiltData.Blocking_final_BuiltData
+[2022.05.25-16.59.21:972][511]LogEditorViewport: Clicking Background
+[2022.05.25-16.59.23:258][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.25-16.59.25:112][588]LogSavePackage: Moving '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_finalC0D128B54D02E048E9E74BB03D0D6ECD.tmp' to '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final.umap'
+[2022.05.25-16.59.26:808][588]LogSavePackage: Moving '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Saved/Blocking_final_BuiltDataD095B2644C2694F7BE358F94EEE485EA.tmp' to '../../../../../../GitHub/JV2B_Projet_Semestriel_4/Content/FirstPersonBP/Maps/Blocking_final_BuiltData.uasset'
+[2022.05.25-16.59.26:831][588]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.25-16.59.26:831][588]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/Blocking_final.Blocking_final
+[2022.05.25-16.59.26:831][588]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/Blocking_final_BuiltData.Blocking_final_BuiltData
